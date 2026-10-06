@@ -77,5 +77,5 @@ app.get("/api/diakok/:id", async (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`✅ A szerver fut a ${PORT} porton`);
+    console.log(`d A szerver fut a ${PORT} porton`);
 });
