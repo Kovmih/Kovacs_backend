@@ -4,7 +4,7 @@ function testeles() {
 
     return (
       <>
-        <h1>React TS Alapok</h1>
+        <h1>Ez a teszt oldal</h1>
         <p>Ez egy React TypeScript alapú alkalmazás.</p>
       </>
     )
